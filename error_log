@@ -1,0 +1,16 @@
+[21-May-2019 10:44:45 America/Sao_Paulo] PHP Fatal error:  Call to undefined method Login::RadioNivel() in /home4/adluxc35/public_html/novo/admin/usuarios.php on line 118
+[03-Jul-2019 09:28:16 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Banners::PreencheDados(), 0 passed in /home4/adluxc35/public_html/blackdiamond/admin/objetos/banners.class.php on line 289 and exactly 1 expected in /home4/adluxc35/public_html/blackdiamond/admin/objetos/banners.class.php:72
+Stack trace:
+#0 /home4/adluxc35/public_html/blackdiamond/admin/objetos/banners.class.php(289): Banners->PreencheDados()
+#1 /home4/adluxc35/public_html/blackdiamond/admin/banners.php(17): Banners->set('1')
+#2 {main}
+  thrown in /home4/adluxc35/public_html/blackdiamond/admin/objetos/banners.class.php on line 72
+[03-Jul-2019 10:35:52 America/Sao_Paulo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home4/adluxc35/public_html/blackdiamond/admin/objetos/class.upload.php on line 36
+[03-Jul-2019 10:37:59 America/Sao_Paulo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home4/adluxc35/public_html/blackdiamond/admin/objetos/class.upload.php on line 36
+[03-Jul-2019 10:39:10 America/Sao_Paulo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home4/adluxc35/public_html/blackdiamond/admin/objetos/class.upload.php on line 36
+[03-Jul-2019 10:40:16 America/Sao_Paulo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home4/adluxc35/public_html/blackdiamond/admin/objetos/class.upload.php on line 36
+[03-Jul-2019 10:43:44 America/Sao_Paulo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home4/adluxc35/public_html/blackdiamond/admin/objetos/class.upload.php on line 36
+[03-Jul-2019 10:44:48 America/Sao_Paulo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home4/adluxc35/public_html/blackdiamond/admin/objetos/class.upload.php on line 36
+[05-Jul-2019 14:46:06 America/Sao_Paulo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home4/adluxc35/public_html/blackdiamond/admin/objetos/class.upload.php on line 36
+[05-Jul-2019 14:47:09 America/Sao_Paulo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home4/adluxc35/public_html/blackdiamond/admin/objetos/class.upload.php on line 36
+[08-Jul-2019 10:30:08 America/Sao_Paulo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; upload has a deprecated constructor in /home4/adluxc35/public_html/blackdiamond/admin/objetos/class.upload.php on line 36
