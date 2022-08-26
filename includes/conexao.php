@@ -12,7 +12,9 @@ try {
       echo $e->getMessage();
      }
  
- date_default_timezone_set('America/Sao_Paulo');
+ // date_default_timezone_set('America/Sao_Paulo');
+ // a partir do gov Bolsonaro foi derrubado horario de verao devido a este motivo adotar o gmt+3 para evitar problemas com horario errado
+ date_default_timezone_set('ETC/GMT+3');
  
  $meses[1] = 'Jan';
  $meses[2] = 'Fev';
